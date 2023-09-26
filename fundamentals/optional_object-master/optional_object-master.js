@@ -25,6 +25,7 @@ const pokemon = Object.freeze([
     ]);
 
 
+
 const divBy3 = pokemon.filter( mon => mon.id % 3 === 0)
 // console.log(divBy3)
 
@@ -47,4 +48,4 @@ const primaryTypeFlying = pokemon.filter( mon => mon.types[1] == 'flying').map( 
 // console.log(primaryTypeFlying)
 
 const normalCount = pokemon.filter( mon => mon.types.includes('normal')).length
-console.log(normalCount)
+// console.log(normalCount)
