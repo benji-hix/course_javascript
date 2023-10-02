@@ -42,7 +42,7 @@ const FormUser = () => {
                 <span>Confirm Password: </span>
                 <input type="text" value={confirmPassword} onChange={(e) => setConfirmPassword(e.target.value)}/>
             </label>
-            <input type="submit" value="Create User" />
+            <input type="submit" value="Create User" className='button-submit'/>
         </form>
 
         <div className='form-display'>
