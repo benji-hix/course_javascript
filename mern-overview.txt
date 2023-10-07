@@ -1,0 +1,20 @@
+today's assignments:
+React:
+[] luke APIwalker
+Express:
+[x] Faker API
+MongoDB:
+[] Jokes API
+
+
+
+M - mongoose: library to connect to database MongoDB
+
+E - Express:interface to Node's server functionality for front-end 
+URL routing, HTTP requests/responses
+
+R - React: client-side/front-end
+interfacest, forms, html, etc.
+
+N - node 
+server platform 
