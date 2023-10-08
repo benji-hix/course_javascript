@@ -1,11 +1,13 @@
 today's assignments:
 React:
-[] luke APIwalker
+[x] luke APIwalker
 Express:
 [x] Faker API
 MongoDB:
-[] Jokes API
-
+[x] Jokes API
+Full-Stack Mern:
+[ ] Product Manager I
+[ ] Product Manager II 
 
 
 M - mongoose: library to connect to database MongoDB
