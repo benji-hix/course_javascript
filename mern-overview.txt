@@ -6,8 +6,8 @@ Express:
 MongoDB:
 [x] Jokes API
 Full-Stack Mern:
-[ ] Product Manager I
-[ ] Product Manager II 
+[x] Product Manager I
+[x] Product Manager III
 
 
 M - mongoose: library to connect to database MongoDB

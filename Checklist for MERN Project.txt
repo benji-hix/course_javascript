@@ -1,0 +1,25 @@
+Checklist for MERN Project
+
+[ ] create server folder
+[ ] npm init -y
+[ ] npm install express mongoose dotenv cors
+[ ] touch server.js .gitignore .env
+[ ] update gitignore
+[ ] update .env 
+
+[ ] mkdir config controllers models routes
+    in config,
+[ ] touch mongoose.config.js
+
+[ ] npm create vite@latest
+    name project client
+[ ] cd client -> npm install
+[ ] npm install axios
+[ ] npm install react-router-dom
+[ ] clear index.css
+[ ] delete app.css
+[ ] update main.jsx
+    import BrowserRouter, wrap App
+[ ] mkdir views components
+[ ] move Main.jsx to views
+
